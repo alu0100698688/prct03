@@ -1,1 +1,2 @@
-Pregunta 27: El irb va evaluando línea por línea, analizándola y ejecútandola, mientras que el interprete de ruby lo analiza todo en su conjunto y muestra el resultado.
+Pregunta 21: El irb va evaluando línea por línea, analizándola y ejecútandola, mientras que el interprete de ruby lo analiza todo en su conjunto y muestra el resultado.
+Pregunta 27: La diferencia es que pry puede ser invocado en cualquier punto de la ejecución y hacer pruebas sobre el programa, lo que permitirá saber valores de variables o resultados de funciones que se hayan definido antes de que se invocara el pry. Además permite la adición, durante la ejecución de pry, de nuevas variables, modificación de las que estuvieran definidas o creación de nuevos métodos.
