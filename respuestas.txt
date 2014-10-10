@@ -1,0 +1,1 @@
+Pregunta 27: El irb va evaluando línea por línea, analizándola y ejecútandola, mientras que el interprete de ruby lo analiza todo en su conjunto y muestra el resultado.
